@@ -6,6 +6,8 @@ public class main {
         student std = new student("Abas ahmed" , 35 , "C1120");
 
         std.display();
+
+        System.out.println("welocme to java!");
     }
 
 }
